@@ -5,5 +5,5 @@ An app that builds a community around audio content. Users would be able to uplo
 <h3>Technology Used</h3>
 Blockstack will be used on the three layers it will have the most impact: Identity, storage, and payments. The identity layer will be used to authorize a user to the app so they can access their audio. The storage layer will be where all the audio files of a user are kept and that they should be able to access at anytime. Finally, the payments layer will be used for transactions and exchange. For example, when user A pays user B to listen to access a particular audio file, once the transaction has completed, the audio file will be moved to the paying customers storage where it can accessed and listened to whenever they are logged in to the app.
 
-
+<br />
 *** The wording of this README.md file will change since this was what was used to apply for the Blockstack Signature Fund in August 2017. ***
